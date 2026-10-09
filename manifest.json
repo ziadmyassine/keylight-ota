@@ -1,10 +1,10 @@
 {
   "schema": "keylight-fw-manifest-v1",
-  "version": 20100,
-  "url": "https://ziadmyassine.github.io/keylight-ota/firmware-2.1.0.bin",
-  "size": 1306256,
-  "sha256": "77b0629cacbcb230492afa04bf54106bed86c7d0fe5f632c116f64c83081b4ac",
+  "version": 20101,
+  "url": "https://ziadmyassine.github.io/keylight-ota/firmware-2.1.1.bin",
+  "size": 1320480,
+  "sha256": "dfbe230960b18e706338525e2cbb4cdaa9d4dd0922d1980abb15ff7264b38c26",
   "rollout_pct": 100,
-  "sig": "MEYCIQD4A1cuOktHa/xqywAGw3/dEYFkZGyKZ7+O/N7JVo8PhgIhAKnAlPWaLFoDvLxqcaX7OUC97mSgUOw75y4uq/stu/ko",
+  "sig": "MEYCIQCvAD/1Jt7MfGzRh36WUo9s6rWWrBaorY+Z1K5+03zLUQIhAKZtv17Bl0NDZ04wJOBSEJgeZmxfYP4+bMn7gsd2rMNz",
   "sig_alg": "ecdsa-p256-sha256-der-b64"
 }
